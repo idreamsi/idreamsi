@@ -1,5 +1,5 @@
 
-[![Infinite Dreams github stats](https://github-readme-stats.vercel.app/api?username=idreamsi&show_icons=true)](https://www.hackster.io/idreams)
+[![Infinite Dreams github stats](https://github-readme-stats.vercel.app/api?username=idreamsi&show_icons=true)](https://www.hackster.io/idreams/)
 <!--
 **idreamsi/idreamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
